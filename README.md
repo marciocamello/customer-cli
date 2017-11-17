@@ -52,8 +52,8 @@ $ client-cli remove [_ID]
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Marcio Camello by TraverSyMedia Tutorial
+[Build A Command Line Interface With Node.js & MongoDB](https://www.youtube.com/watch?v=v2GKt39-LPA)
 
 ### Version
 
